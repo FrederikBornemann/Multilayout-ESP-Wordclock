@@ -99,6 +99,7 @@ let TRANSLATION_IT = {
 			"text": "Le modifiche alle dimensioni dell'array hanno effetto solo quando l'orologio viene reimpostato.",
 			"variant": "Scelta della variante dell'orologio",
 			"de-10-11": "🇩🇪 10 × 11",
+			"de-10-11-fred": "🇩🇪 10 × 11 Fred",
 			"de-10-11-alt": "🇩🇪 10 × 11 Alternativ",
 			"de-10-11-alt-frame": "🇩🇪 10 × 11 Alternativer Rahmen",
 			"de-10-11-vertical": "🇩🇪 10 × 11 Vertikal",

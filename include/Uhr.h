@@ -273,6 +273,7 @@ enum ClockType {
     Eng10x11 = 10,
     Eng08x08 = 29,
     Ger10x11 = 1,
+    Ger10x11Fred = 31,
     Ger10x11Alternative = 2,
     Ger10x11AlternativeFrame = 4,
     Ger10x11Vertical = 12,

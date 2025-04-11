@@ -99,6 +99,7 @@ let TRANSLATION_HU = {
 			"text": "A mátrixméret változtatása az óra újraindításakor lép életbe.",
 			"variant": "Óraváltozatok kiválasztása",
 			"de-10-11": "🇩🇪 10 × 11",
+			"de-10-11-fred": "🇩🇪 10 × 11 Fred",
 			"de-10-11-alt": "🇩🇪 10 × 11 Alternatív",
 			"de-10-11-alt-frame": "🇩🇪 10 × 11 Alternatív keretek",
 			"de-10-11-vertical": "🇩🇪 10 × 11 függőleges",

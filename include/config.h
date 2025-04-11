@@ -17,7 +17,7 @@
 /*       German       */
 /**********************/
 //
-#define DEFAULT_LAYOUT Ger10x11
+#define DEFAULT_LAYOUT Ger10x11Fred
 // 10 rows, 11 LEDs per row + 4 LEDs for minutes
 //
 // #define DEFAULT_LAYOUT Ger10x11Alternative
@@ -40,6 +40,10 @@
 // #define DEFAULT_LAYOUT Ger10x11Nero
 // 10 rows, each 11 LED's per row + 4 LED's for minutes, with the layout
 // from the Github user @n3roGit
+//
+// #define DEFAULT_LAYOUT Ger10x11Fred
+// 10 rows, each 11 LED's per row + 4 LED's for minutes, with the layout
+// from the Github user @frederikbornemann
 //
 // #define DEFAULT_LAYOUT Ger11x11
 // 11 rows, each 11 LED's per row + 4 LED's for minutes
@@ -179,7 +183,7 @@
  *
  * Valid values for WHITE_LEDTYPE [WarmWhite, NeutralWhite, ColdWhite]
  */
-#define DEFAULT_LEDTYPE Brg
+#define DEFAULT_LEDTYPE Grbw
 #define WHITE_LEDTYPE WhiteType::NeutralWhite
 
 //--------------------------------------------------------------------------
@@ -249,9 +253,9 @@
  * Valid values WIFI_PASSWORD [up to 64 Alphanumeric Letters]
  *
  */
-#define MANUAL_WIFI_SETTINGS false
-#define WIFI_SSID "WIFISSID"
-#define WIFI_PASSWORD "Password"
+#define MANUAL_WIFI_SETTINGS true
+#define WIFI_SSID "Fritzbox CEF Corp."
+#define WIFI_PASSWORD "Lauenburg71013"
 
 //--------------------------------------------------------------------------
 // Settings for Boot sequence

@@ -99,6 +99,7 @@ let TRANSLATION_NL = {
 			"text": "Verandering van formaat is alleen zichtbaar na herstart.",
 			"variant": "Klok variant",
 			"de-10-11": "🇩🇪 10 × 11",
+			"de-10-11-fred": "🇩🇪 10 × 11 Fred",
 			"de-10-11-alt": "🇩🇪 10 × 11 Alternatief",
 			"de-10-11-alt-frame": "🇩🇪 10 × 11 Alternatief Frame",
 			"de-10-11-vertical": "🇩🇪 10 × 11 Verticaal",

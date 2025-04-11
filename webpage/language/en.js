@@ -123,6 +123,7 @@ let TRANSLATION_EN_US = {
 			"text": "Changes to the matrix size are only applied when the clock is restarted.",
 			"variant": "Choice of Clock Variant",
 			"de-10-11": "🇩🇪 10 × 11",
+			"de-10-11-fred": "🇩🇪 10 × 11 Fred",
 			"de-10-11-alt": "🇩🇪 10 × 11 Alternative",
 			"de-10-11-alt-frame": "🇩🇪 10 × 11 Alternative Frame",
 			"de-10-11-vertical": "🇩🇪 10 × 11 Vertical",

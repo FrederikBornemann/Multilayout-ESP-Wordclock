@@ -123,6 +123,7 @@ let TRANSLATION_DE_DE = {
 			"text": "Änderungen der Matrixgröße werden erst mit einem Neustart der Uhr übernommen.",
 			"variant": "Wahl der Uhrvariante",
 			"de-10-11": "🇩🇪 10 × 11",
+			"de-10-11-fred": "🇩🇪 10 × 11 Fred",
 			"de-10-11-alt": "🇩🇪 10 × 11 Alternativ",
 			"de-10-11-alt-frame": "🇩🇪 10 × 11 Alternativer Rahmen",
 			"de-10-11-vertical": "🇩🇪 10 × 11 Vertikal",
